@@ -1,16 +1,207 @@
-## Hi there 👋
+# Hi, I'm Radjibou Ibrahim 👋
 
-<!--
-**radjibou-ibrahim/radjibou-ibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Software QA Tester
 
-Here are some ideas to get you started:
+I am a Junior QA Tester focused on manual testing, functional testing, test case design, bug reporting, and software quality assurance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build my QA skills through hands-on testing projects and practical exercises on web applications and APIs.
+
+---
+
+## 🧪 QA Skills
+
+- Manual Testing
+- Functional Testing
+- Test Case Design
+- Test Scenario Design
+- Test Execution
+- Bug Reporting
+- Defect Tracking
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- Exploratory Testing
+- User Acceptance Testing (UAT)
+- API Testing
+- Basic SQL Testing
+
+---
+
+## 🛠️ Tools & Technologies
+
+### Testing Tools
+
+- Jira
+- Postman
+- Chrome DevTools
+- Microsoft Excel
+- Google Sheets
+
+### Technical Skills
+
+- SQL
+- HTML
+- CSS
+- REST APIs
+
+### Methodologies
+
+- Agile
+- Scrum
+- SDLC
+- STLC
+
+---
+
+## 📂 QA Portfolio
+
+### 🛒 E-commerce Testing Project
+
+Manual testing of an e-commerce web application.
+
+**Activities:**
+
+- Test planning
+- Test scenario design
+- Test case creation
+- Test execution
+- Functional testing
+- Regression testing
+- Exploratory testing
+- Bug reporting
+- Jira defect tracking
+
+👉 [View E-commerce Testing Project](#)
+
+---
+
+### 🔐 Login Functionality Testing
+
+Tested the login functionality of a web application.
+
+**Tested areas:**
+
+- Valid login
+- Invalid credentials
+- Empty fields
+- Password validation
+- Error messages
+- Account lockout
+- Login button behavior
+
+👉 [View Login Testing Project](#)
+
+---
+
+### 🔌 API Testing with Postman
+
+Performed basic REST API testing using Postman.
+
+**Tested:**
+
+- GET requests
+- POST requests
+- PUT requests
+- DELETE requests
+- HTTP status codes
+- Response body validation
+- Error handling
+
+👉 [View API Testing Project](#)
+
+---
+
+### 🗄️ SQL Testing Exercises
+
+Practiced SQL queries for database validation.
+
+**Topics covered:**
+
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- COUNT
+- JOIN
+
+👉 [View SQL Testing Exercises](#)
+
+---
+
+## 🐞 Bug Reporting
+
+I practice identifying, reproducing, and documenting software defects using structured bug reports.
+
+Each bug report includes:
+
+- Bug ID
+- Summary
+- Environment
+- Preconditions
+- Steps to Reproduce
+- Expected Result
+- Actual Result
+- Severity
+- Priority
+- Evidence / Screenshots
+
+👉 [View Bug Reports](#)
+
+---
+
+## 📊 Test Documentation
+
+My portfolio includes examples of:
+
+- Test Plans
+- Test Scenarios
+- Test Cases
+- Test Execution Reports
+- Bug Reports
+- Test Summary Reports
+
+👉 [View Test Documentation](#)
+
+---
+
+## 📚 Currently Learning
+
+I am currently improving my skills in:
+
+- Advanced Manual Testing
+- API Testing
+- SQL
+- Jira
+- Agile / Scrum
+- Software Testing Techniques
+- Test Automation fundamentals
+
+I am also preparing to take the **ISTQB Certified Tester Foundation Level (CTFL)** examination.
+
+---
+
+## 🎯 Career Objective
+
+I am currently looking for a **Junior QA Tester, Manual QA Tester, or Software Tester** opportunity where I can apply my testing skills, contribute to software quality, and continue developing my QA expertise.
+
+I am open to **remote opportunities and junior-level positions**.
+
+---
+
+## 📫 Contact
+
+**LinkedIn:** [www.linkedin.com/in/radjibou-ibrahim-53ab0b174](#)
+
+**Email:** ibrahimradjibou@gmail.com
+
+---
+
+## ⚡ About Me
+
+- 🔍 Interested in software quality and testing
+- 🧪 Focused on manual testing
+- 📚 Continuous learner
+- 🐞 Enjoy finding and documenting defects
+- 💻 Building practical QA projects
+- 🌍 Open to international and remote opportunities## Hi there 👋
+
