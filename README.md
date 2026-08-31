@@ -71,7 +71,7 @@ Manual testing of an e-commerce web application.
 - Bug reporting
 - Jira defect tracking
 
-👉 [View E-commerce Testing Project](#)
+👉 [View E-commerce Testing Project](https://github.com/radjibou-ibrahim/qa-ecommerce-testing/tree/main)
 
 ---
 
