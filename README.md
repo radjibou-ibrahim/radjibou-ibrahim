@@ -75,21 +75,25 @@ Manual testing of an e-commerce web application.
 
 ---
 
-### 🔐 Login Functionality Testing
+### 🏦 Banking Application Testing
 
-Tested the login functionality of a web application.
+This project is a Manual QA testing project based on a demo web banking application.
 
 **Tested areas:**
 
-- Valid login
-- Invalid credentials
-- Empty fields
-- Password validation
-- Error messages
-- Account lockout
-- Login button behavior
+- Customer Authentication
+- Bank Manager Authentication
+- Customer Dashboard
+- Account Information
+- Account Balance
+- Transaction History
+- Deposit
+- Withdrawal
+- Customer and Account Management
+- Logout and Application Navigation
 
-👉 [View Login Testing Project](#)
+
+👉 [View Login Testing Project]([#](https://github.com/radjibou-ibrahim/qa-banking-testing.git))
 
 ---
 
