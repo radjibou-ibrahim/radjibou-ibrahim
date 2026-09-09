@@ -93,7 +93,7 @@ This project is a Manual QA testing project based on a demo web banking applicat
 - Logout and Application Navigation
 
 
-👉 [View Login Testing Project]([#](https://github.com/radjibou-ibrahim/qa-banking-testing.git))
+👉 [View Banking Application Testing](https://github.com/radjibou-ibrahim/qa-banking-testing.git)
 
 ---
 
