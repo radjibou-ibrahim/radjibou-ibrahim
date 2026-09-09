@@ -194,9 +194,10 @@ I am open to **remote opportunities and junior-level positions**.
 
 ## 📫 Contact
 
-**LinkedIn:** [www.linkedin.com/in/radjibou-ibrahim-53ab0b174](#)
+**LinkedIn:** [linkedin.com/in/radjibou-ibrahim](linkedin.com/in/radjibou-ibrahim)
 
 **Email:** ibrahimradjibou@gmail.com
+**Email:** radjguerigui07@gmail.com
 
 ---
 
