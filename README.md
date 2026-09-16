@@ -97,7 +97,7 @@ This project is a Manual QA testing project based on a demo web banking applicat
 
 ---
 
-### 🔌 API Testing with Postman
+### 🔌 Postman API Testing Portfolio
 
 Performed basic REST API testing using Postman.
 
