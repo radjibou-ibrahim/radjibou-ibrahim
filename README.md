@@ -97,8 +97,7 @@ This project is a Manual QA testing project based on a demo web banking applicat
 
 ---
 
-### 🔌 Postman API Testing Portfolio
-
+### 🔌 API Testing with Postman – User Management System
 Performed basic REST API testing using Postman.
 
 **Tested:**
@@ -110,8 +109,16 @@ Performed basic REST API testing using Postman.
 - HTTP status codes
 - Response body validation
 - Error handling
+- Analyze REST API endpoints and requirements
+- Use Postman environment variables
+- Validate JSON response structures
+- Validate response data
+- Implement automated assertions using JavaScript
+- Execute collections using Postman Collection Runner
+- Execute API tests using Newman
+- Generate test execution reports
 
-👉 [View API Testing Project](#)
+👉 [View API Testing with Postman](https://github.com/radjibou-ibrahim/qa-api-testing-postman)
 
 ---
 
@@ -197,7 +204,6 @@ I am open to **remote opportunities and junior-level positions**.
 **LinkedIn:** [linkedin.com/in/radjibou-ibrahim](linkedin.com/in/radjibou-ibrahim)
 
 **Email:** ibrahimradjibou@gmail.com
-**Email:** radjguerigui07@gmail.com
 
 ---
 
