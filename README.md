@@ -1,29 +1,47 @@
 # Hi, I'm Radjibou Ibrahim 👋
 
-## Junior Software QA Tester
+## QA Tester | Manual & Automation Testing
 
-I am a Junior QA Tester focused on manual testing, functional testing, test case design, bug reporting, and software quality assurance.
+I am a QA Tester with hands-on experience in functional, exploratory and regression testing of web applications and APIs.
 
-I build my QA skills through hands-on testing projects and practical exercises on web applications and APIs.
+I design and execute test cases, identify and document software defects, validate application behavior and contribute to software quality throughout the testing process.
+
+I am also developing my skills in test automation with Playwright and JavaScript, API testing with Postman, and AI-assisted QA workflows.
+
+🌍 Based in Benin  
+💻 Open to Remote Opportunities
 
 ---
 
 ## 🧪 QA Skills
 
-- Manual Testing
 - Functional Testing
-- Test Case Design
-- Test Scenario Design
-- Test Execution
-- Bug Reporting
-- Defect Tracking
+- Manual Testing
+- Exploratory Testing
 - Regression Testing
 - Smoke Testing
 - Sanity Testing
-- Exploratory Testing
-- User Acceptance Testing (UAT)
+- Test Scenario Design
+- Test Case Design
+- Test Execution
+- Retesting
+- Bug Reporting
+- Defect Tracking
 - API Testing
 - Basic SQL Testing
+- Web Application Testing
+
+---
+
+## 🤖 AI-Assisted QA
+
+- AI-Assisted Test Analysis
+- AI-Assisted Test Case Generation
+- Prompt Engineering for QA
+- AI-Assisted Bug Analysis
+- AI-Assisted QA Documentation
+- AI Workflow Design
+- QA AI Agents — In Progress
 
 ---
 
@@ -34,15 +52,40 @@ I build my QA skills through hands-on testing projects and practical exercises o
 - Jira
 - Postman
 - Chrome DevTools
-- Microsoft Excel
-- Google Sheets
+- Playwright
+- Newman
 
-### Technical Skills
+### Web Technologies
 
-- SQL
 - HTML
 - CSS
+- JavaScript
+
+### API Testing
+
 - REST APIs
+- HTTP Methods
+- HTTP Status Codes
+- JSON
+- API Assertions
+- Request / Response Validation
+
+### Test Automation
+
+- Playwright
+- JavaScript
+- Automated Functional Testing
+- Locators
+- Assertions
+
+### Version Control
+
+- Git
+- GitHub
+
+### Database
+
+- SQL
 
 ### Methodologies
 
@@ -53,31 +96,35 @@ I build my QA skills through hands-on testing projects and practical exercises o
 
 ---
 
-## 📂 QA Portfolio
+# 📂 QA Portfolio
 
-### 🛒 E-commerce Testing Project
+My portfolio contains practical QA projects covering manual testing, API testing, SQL and test automation.
 
-Manual testing of an e-commerce web application.
+---
 
-**Activities:**
+## 🛒 E-commerce Testing Project
 
-- Test planning
-- Test scenario design
-- Test case creation
-- Test execution
-- Functional testing
-- Regression testing
-- Exploratory testing
-- Bug reporting
-- Jira defect tracking
+Manual QA testing of an e-commerce web application.
+
+**Covered activities:**
+
+- Test Planning
+- Test Scenario Design
+- Test Case Creation
+- Test Execution
+- Functional Testing
+- Regression Testing
+- Exploratory Testing
+- Bug Reporting
+- Jira Defect Tracking
 
 👉 [View E-commerce Testing Project](https://github.com/radjibou-ibrahim/qa-ecommerce-testing/tree/main)
 
 ---
 
-### 🏦 Banking Application Testing
+## 🏦 Banking Application Testing
 
-This project is a Manual QA testing project based on a demo web banking application.
+Manual QA testing project based on a demo web banking application.
 
 **Tested areas:**
 
@@ -92,39 +139,37 @@ This project is a Manual QA testing project based on a demo web banking applicat
 - Customer and Account Management
 - Logout and Application Navigation
 
-
 👉 [View Banking Application Testing](https://github.com/radjibou-ibrahim/qa-banking-testing.git)
 
 ---
 
-### 🔌 API Testing with Postman – User Management System
-Performed basic REST API testing using Postman.
+## 🔌 API Testing with Postman – User Management System
 
-**Tested:**
+REST API testing project using Postman, JavaScript and Newman.
 
-- GET requests
-- POST requests
-- PUT requests
-- DELETE requests
-- HTTP status codes
-- Response body validation
-- Error handling
-- Analyze REST API endpoints and requirements
-- Use Postman environment variables
-- Validate JSON response structures
-- Validate response data
-- Implement automated assertions using JavaScript
-- Execute collections using Postman Collection Runner
-- Execute API tests using Newman
-- Generate test execution reports
+**Covered activities:**
+
+- API Requirements Analysis
+- API Test Scenario Design
+- Authentication Testing
+- CRUD Testing
+- Positive & Negative Testing
+- HTTP Status Code Validation
+- JSON Response Validation
+- JavaScript Assertions
+- Postman Environment Variables
+- Collection Runner
+- Newman Execution
+- Test Reporting
+- Defect Reporting
 
 👉 [View API Testing with Postman](https://github.com/radjibou-ibrahim/qa-api-testing-postman)
 
 ---
 
-### 🗄️ SQL Testing Exercises
+## 🗄️ SQL Testing Exercises
 
-Practiced SQL queries for database validation.
+Practical SQL exercises focused on database validation.
 
 **Topics covered:**
 
@@ -135,15 +180,33 @@ Practiced SQL queries for database validation.
 - COUNT
 - JOIN
 
-👉 [View SQL Testing Exercises](#)
+👉 [View SQL Testing Exercises](https://github.com/radjibou-ibrahim)
 
 ---
 
-## 🐞 Bug Reporting
+## 🤖 Web Test Automation — Playwright
 
-I practice identifying, reproducing, and documenting software defects using structured bug reports.
+Web test automation project using Playwright and JavaScript.
 
-Each bug report includes:
+**Covered activities:**
+
+- Automated Functional Testing
+- Test Automation
+- Locators
+- Assertions
+- Page Object Model
+- Test Execution
+- Git & GitHub
+
+👉 [View Playwright Automation Project](https://github.com/radjibou-ibrahim/qa-playwright-ecommerce)
+
+---
+
+# 🐞 Bug Reporting
+
+I practice identifying, reproducing and documenting software defects using structured bug reports.
+
+Each bug report can include:
 
 - Bug ID
 - Summary
@@ -155,14 +218,15 @@ Each bug report includes:
 - Severity
 - Priority
 - Evidence / Screenshots
+- Defect Status
 
-👉 [View Bug Reports](#)
+👉 [View Bug Reports](https://github.com/radjibou-ibrahim/qa-portfolio)
 
 ---
 
-## 📊 Test Documentation
+# 📊 Test Documentation
 
-My portfolio includes examples of:
+My QA portfolio includes examples of:
 
 - Test Plans
 - Test Scenarios
@@ -170,49 +234,65 @@ My portfolio includes examples of:
 - Test Execution Reports
 - Bug Reports
 - Test Summary Reports
+- API Test Documentation
 
-👉 [View Test Documentation](#)
+👉 [View Test Documentation](https://github.com/radjibou-ibrahim/qa-portfolio)
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Developing
 
-I am currently improving my skills in:
+I am currently developing my skills in:
 
-- Advanced Manual Testing
+- Test Automation with Playwright
+- JavaScript for QA Automation
 - API Testing
-- SQL
-- Jira
-- Agile / Scrum
-- Software Testing Techniques
-- Test Automation fundamentals
+- Git & GitHub
+- AI-Assisted QA
+- Prompt Engineering
+- AI Workflows
+- QA AI Agents
 
-I am also preparing to take the **ISTQB Certified Tester Foundation Level (CTFL)** examination.
+I am also preparing for the:
 
----
-
-## 🎯 Career Objective
-
-I am currently looking for a **Junior QA Tester, Manual QA Tester, or Software Tester** opportunity where I can apply my testing skills, contribute to software quality, and continue developing my QA expertise.
-
-I am open to **remote opportunities and junior-level positions**.
+**ISTQB Certified Tester — Foundation Level (CTFL)**
 
 ---
 
-## 📫 Contact
+# 🎯 Career Objective
 
-**LinkedIn:** [linkedin.com/in/radjibou-ibrahim](linkedin.com/in/radjibou-ibrahim)
+I am looking for remote opportunities as a:
 
-**Email:** ibrahimradjibou@gmail.com
+- Junior QA Tester
+- Manual QA Tester
+- QA Automation Tester
+- Software Tester
+
+My goal is to contribute to software quality through structured testing, clear defect reporting and increasingly automated QA processes.
+
+I am particularly interested in remote and international collaborations, including freelance and project-based QA opportunities.
 
 ---
 
-## ⚡ About Me
+# 📫 Contact
 
-- 🔍 Interested in software quality and testing
-- 🧪 Focused on manual testing
+📧 Email: ibrahimradjibou@gmail.com
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/radjibou-ibrahim/
+
+💻 GitHub:  
+https://github.com/radjibou-ibrahim
+
+---
+
+# ⚡ About Me
+
+- 🔍 Passionate about software quality and testing
+- 🧪 Focused on Manual & Automation Testing
+- 🐞 Enjoy finding, reproducing and documenting defects
+- 🔌 Interested in API testing
+- 🎭 Developing skills in Playwright automation
+- 🤖 Exploring AI-assisted QA workflows
 - 📚 Continuous learner
-- 🐞 Enjoy finding and documenting defects
-- 💻 Building practical QA projects
-- 🌍 Open to international and remote opportunities## Hi there 👋
-
+- 🌍 Open to remote and international opportunities
