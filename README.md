@@ -98,7 +98,7 @@ I am also developing my skills in test automation with Playwright and JavaScript
 
 # 📂 QA Portfolio
 
-My portfolio contains practical QA projects covering manual testing, API testing, SQL and test automation.
+My portfolio contains practical QA projects covering manual testing, exploratory testing audits, API testing, SQL and test automation.
 
 ---
 
@@ -164,6 +164,40 @@ REST API testing project using Postman, JavaScript and Newman.
 - Defect Reporting
 
 👉 [View API Testing with Postman](https://github.com/radjibou-ibrahim/qa-api-testing-postman)
+
+---
+
+## 🥗 NutriLife — QA Audit (Exploratory & Functional Testing)
+
+Targeted QA audit of **NutriLife**, a web application for meal planning and nutrition tracking. The goal is to quickly assess key user journeys, identify functional and usability issues, and deliver structured feedback to the product team.
+
+**Scope:**
+
+- Registration & Onboarding
+- Meal Planning
+- Grocery List Generation
+- Navigation & Usability
+- Exploratory Testing
+
+**Approach:**
+
+- Functional Testing
+- Exploratory Testing
+- Positive / Negative Testing
+- Edge Case Verification
+- Bug Reproduction & Documentation (steps to reproduce, expected vs actual result, severity)
+
+**Deliverables:**
+
+- Test Scope
+- Test Checklist
+- Test Execution
+- Bug Reports
+- QA Summary
+
+**Status:** 🚧 In progress
+
+👉 [View NutriLife QA Audit](https://github.com/radjibou-ibrahim/qa-nutrilife-audit)
 
 ---
 
