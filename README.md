@@ -53,7 +53,9 @@ I am also developing my skills in test automation with Playwright and JavaScript
 - Postman
 - Chrome DevTools
 - Playwright
+- TypeScript
 - Newman
+- Jmeter
 
 ### Web Technologies
 
@@ -74,9 +76,11 @@ I am also developing my skills in test automation with Playwright and JavaScript
 
 - Playwright
 - JavaScript
+- TypeScript
 - Automated Functional Testing
 - Locators
 - Assertions
+- Jmeter
 
 ### Version Control
 
@@ -259,6 +263,7 @@ I am also preparing for the:
 
 I am looking for remote opportunities as a:
 
+- QA Automation Engineer
 - QA Tester
 - Manual QA Tester
 - QA Automation Tester
