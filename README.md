@@ -167,9 +167,9 @@ REST API testing project using Postman, JavaScript and Newman.
 
 ---
 
-## 🗄️ SQL Testing Exercises
+## 🗄️ QA SQL E-commerce Database Testing
 
-Practical SQL exercises focused on database validation.
+This project demonstrates a QA approach to testing and validating an e-commerce database using SQL and PostgreSQL.
 
 **Topics covered:**
 
@@ -180,7 +180,7 @@ Practical SQL exercises focused on database validation.
 - COUNT
 - JOIN
 
-👉 [View SQL Testing Exercises](https://github.com/radjibou-ibrahim)
+👉 [View QA SQL E-commerce Database Testing](https://github.com/radjibou-ibrahim)
 
 ---
 
@@ -199,44 +199,6 @@ Web test automation project using Playwright and JavaScript.
 - Git & GitHub
 
 👉 [View Playwright Automation Project](https://github.com/radjibou-ibrahim/qa-playwright-ecommerce)
-
----
-
-# 🐞 Bug Reporting
-
-I practice identifying, reproducing and documenting software defects using structured bug reports.
-
-Each bug report can include:
-
-- Bug ID
-- Summary
-- Environment
-- Preconditions
-- Steps to Reproduce
-- Expected Result
-- Actual Result
-- Severity
-- Priority
-- Evidence / Screenshots
-- Defect Status
-
-👉 [View Bug Reports](https://github.com/radjibou-ibrahim/qa-portfolio)
-
----
-
-# 📊 Test Documentation
-
-My QA portfolio includes examples of:
-
-- Test Plans
-- Test Scenarios
-- Test Cases
-- Test Execution Reports
-- Bug Reports
-- Test Summary Reports
-- API Test Documentation
-
-👉 [View Test Documentation](https://github.com/radjibou-ibrahim/qa-portfolio)
 
 ---
 
@@ -263,7 +225,7 @@ I am also preparing for the:
 
 I am looking for remote opportunities as a:
 
-- Junior QA Tester
+- QA Tester
 - Manual QA Tester
 - QA Automation Tester
 - Software Tester
